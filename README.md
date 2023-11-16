@@ -1,0 +1,1 @@
+# abit-b760i-12700-hackintosh-uefi
