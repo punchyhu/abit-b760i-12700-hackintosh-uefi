@@ -7,6 +7,6 @@
 
 
 ### 2025年2月6日更新
-硬件：升技b760i+intel12700+amd RX6800+ax211
+硬件：升技b760i+intel12700+amdRX6800+ax211
 软件：oc1.0.3 macos15.2
 以上硬件均以驱动正常运行 intel网卡需要使用oclp安装intel网卡驱动
